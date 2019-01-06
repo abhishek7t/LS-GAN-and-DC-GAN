@@ -1,2 +1,2 @@
-# LS-GAN-and-DC-GAN
-Implementation of LS GAN and DC GAN
+# LSGAN and DCGAN
+Implementation of LSGAN and DCGAN
