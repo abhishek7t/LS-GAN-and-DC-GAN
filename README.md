@@ -7,5 +7,5 @@ Implementation of LSGAN and DCGAN
   <img src="https://github.com/abhishek7t/LSGAN-and-DCGAN/blob/master/GAN%20Results/LSGAN.png">
   <br><br>
   <b>CelebA DCGAN Results</b>
-  <img src="https://github.com/abhishek7t/LSGAN-and-DCGAN/blob/master/GAN%20Results/LSGAN.png">
+  <img src="https://github.com/abhishek7t/LSGAN-and-DCGAN/blob/master/GAN%20Results/dcgan.png">
 </p>
